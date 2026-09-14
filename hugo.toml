@@ -1,0 +1,4 @@
+baseURL = 'https://adityaatikoo.com'
+locale = 'en-us'
+title = "Adityaa's Website"
+theme = 'lugo'
